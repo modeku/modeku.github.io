@@ -1,0 +1,41 @@
+h1{
+    color: #217fc3;
+    text-align: center;
+}
+#imgdiv{
+    text-align: center;
+}
+.op{
+    text-align: right;
+}
+.center{
+    text-align: center;
+}
+body{
+    background-color: hsl(77, 21%, 84%);
+  margin: auto;
+}
+h2{
+    color: #1993de;
+    background-color: hsl(252, 9%, 89%);
+    line-height:40px;
+    padding: left 40px;
+    box-shadow: 10px 10px 5px#8573ab;
+    border-radius: 5%;
+}
+a{
+    text-decoration: none;
+    color: #e60667;
+}
+ul{
+    color: #0509e8;
+    text-align: justify;
+}
+table{
+    text-align: center;
+    color: #6f934f;
+}
+ol{
+    color: #2775b0;
+    text-align: center;
+}
