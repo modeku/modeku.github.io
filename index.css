@@ -12,12 +12,12 @@ h1{
     text-align: center;
 }
 body{
-    background-color: hsl(77, 21%, 84%);
+    background-color: hsl(81, 37%, 80%);
   margin: auto;
 }
 h2{
     color: #1993de;
-    background-color: hsl(252, 9%, 89%);
+    background-color: hsl(270, 10%, 81%);
     line-height:40px;
     padding: left 40px;
     box-shadow: 10px 10px 5px#8573ab;
@@ -33,9 +33,9 @@ ul{
 }
 table{
     text-align: center;
-    color: #6f934f;
+    color: #de1cd8;
 }
 ol{
-    color: #2775b0;
+    color: #3a08f2;
     text-align: center;
 }
