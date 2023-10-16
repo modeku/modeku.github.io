@@ -1,6 +1,7 @@
 h1{
     color: #fa050573;
     text-align: center;
+    margin-top: 20px;
 }
 body{
     margin:o;
@@ -14,11 +15,17 @@ body{
     text-align: right;
 }
 h2{
-    color: #0e99f0;
-    background-color: #ee0e20;
+    color: #88b450;
+    background-color: #d4d383;
     line-height:50px;
-    box-shadow:10px 10px 10px#7f7195;
-    border-radius: 3px;
+    box-shadow: 10px 10px 10px#92e3e0;
+    border-radius: 15px;
+}
+ul{
+    color: #136bdedd;
+}
+ol{
+    color: #136bdedd;
 }
 a{
     text-decoration: none;
@@ -26,14 +33,15 @@ a{
 }
 table{
     text-align: center;
-    color: #986096;
+    color: #136bdedd;
 }
 .super{
-    text-align: center;
+    text-align: right;
 }
 .con{
+    background-color: #f9e4bcdd;
     width: 800px;
-    margin: 0,auto;
+    margin: 0 auto;
     padding: 5px,10px;
-    box-shadow: 5px 5px 5px#04c8f9;
+    box-shadow: 5px 5px 5px#7b9fa8;
 }
