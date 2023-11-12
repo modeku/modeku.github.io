@@ -1,46 +1,56 @@
-h1{
-    color: #fa050573;
-    text-align: center;
+.name{
+    color: #0519f973;
+    text-align: left;
     margin-top: 20px;
+    animation-name:name;
+    animation-duration: 5s;}
+@keyframes name{
+from {background-color: rgb(210, 48, 75);}
+to {background-color: yellow;}
 }
+
 body{
     margin:o;
     padding:o;
+    background-size: 100%;
 }
 
 #imgdiv{
-    text-align: center;
+    text-align: left;
+    opacity: 0.8;
 }
+
 .op{
     text-align: right;
 }
+
 h2{
-    color: #88b450;
+    color: #50b487;
     background-color: #d4d383;
     line-height:50px;
     box-shadow: 10px 10px 10px#92e3e0;
     border-radius: 15px;
 }
+
 ul{
-    color: #136bdedd;
+    color: #ffff03dd;
 }
 ol{
-    color: #136bdedd;
+    color: #134ddedd;
 }
 a{
     text-decoration: none;
-    color: #37c2c5f1;
+    color: #3764c5f1;
 }
 table{
     text-align: center;
-    color: #136bdedd;
+    color: #07a88ddd;
 }
 .super{
     text-align: right;
 }
 .con{
-    background-color: #f9e4bcdd;
-    width: 800px;
+    width: 900px;
     margin: 0 auto;
     padding: 5px,10px;
     box-shadow: 5px 5px 5px#7b9fa8;
