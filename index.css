@@ -1,12 +1,14 @@
 .name{
+    height: auto;
+    width: 100px;
     color: #0519f973;
     text-align: left;
     margin-top: 20px;
     animation-name:name;
     animation-duration: 5s;}
 @keyframes name{
-from {background-color: rgb(210, 48, 75);}
-to {background-color: yellow;}
+from {background-color: rgb(123, 128, 194);}
+to {background-color: rgb(248, 134, 12);}
 }
 
 body{
